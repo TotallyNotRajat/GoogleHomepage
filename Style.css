@@ -102,4 +102,5 @@
   }
   button:hover{
     border: 1px solid gray;
+    cursor: pointer;
   }
