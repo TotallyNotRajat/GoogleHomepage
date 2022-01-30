@@ -1,1 +1,1 @@
-This is a recreation on the Google homepage made by Rajat Tiwari.
+This is a recreation of the Google homepage made by Rajat Tiwari.
